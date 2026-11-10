@@ -1,5 +1,5 @@
-# AMEN — proposta de site (WebDone)
+# AMEN — proposta de site (AskDone)
 
-Proposta de novo site feita pela WebDone. **Não é o site oficial da AMEN.**
+Proposta de novo site feita pela AskDone. **Não é o site oficial da AMEN.**
 
 Link: https://webdone-sketch.github.io/AMEN/
